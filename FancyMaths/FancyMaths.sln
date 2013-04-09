@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyMaths", "FancyMaths\FancyMaths.csproj", "{9BB4BB1B-1D0D-4B18-9AB3-C1F48B2FD672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB4BB1B-1D0D-4B18-9AB3-C1F48B2FD672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB4BB1B-1D0D-4B18-9AB3-C1F48B2FD672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB4BB1B-1D0D-4B18-9AB3-C1F48B2FD672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB4BB1B-1D0D-4B18-9AB3-C1F48B2FD672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

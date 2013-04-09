@@ -1,0 +1,29 @@
+﻿<Window x:Class="FancyMaths.Klasa_Trzecia"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Klasa_Trzecia" WindowState="Maximized" WindowStyle="None">
+    <Grid>
+        <Grid x:Name="Grid3" Height="Auto" Width="Auto">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Button x:Name="Powrot" Content="Powrót" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="50" Width="150" FontSize="36px" Click="Powrot_Click" />
+            <Button x:Name="Trzecia_dodawanie" Content="Dodawanie" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="Auto" BorderThickness="5" FontSize="36" Click="Trzecia_dodawanie_Click" />
+            <Button x:Name="Trzecia_odejmowanie" Content="Odejmowanie" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="Auto" BorderThickness="5" FontSize="36" Click="Trzecia_odejmowanie_Click"/>
+            <Button x:Name="Trzecia_mnozenie" Content="Mnożenie" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" BorderThickness="5" FontSize="36" Click="Trzecia_mnozenie_Click"/>
+            <Button x:Name="Trzecia_dzielenie" Content="Dzielenie" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Width="Auto" BorderThickness="5" FontSize="36" Click="Trzecia_dzielenie_Click"/>
+            <Button x:Name="Trzecia_dod_i_odej" Content="Dodawanie i odejmowanie" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Width="Auto" BorderThickness="5" FontSize="36" Click="Trzecia_dod_i_odej_Click"/>
+            <Button x:Name="Trzecia_mno_i_dziel" Content="Mnozenie i dzielenie" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Width="Auto" BorderThickness="5" FontSize="36" Click="Trzecia_mno_i_dziel_Click"/>
+            <Button x:Name="Trzecia_liczby" Content="Liczby" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Width="Auto" BorderThickness="5" FontSize="36" Click="Trzecia_liczby_Click"/>
+            <Button x:Name="Trzecia_tresc" Content="Zadania z treścią" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="Auto" BorderThickness="5" FontSize="36" Click="Trzecia_tresc_Click" />
+        </Grid>
+    </Grid>
+</Window>

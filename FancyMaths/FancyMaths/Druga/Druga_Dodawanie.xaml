@@ -1,0 +1,8 @@
+﻿<Window x:Class="FancyMaths.Druga.Druga_Dodawanie"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Druga_Dodawanie" Height="300" Width="300">
+    <Grid>
+        
+    </Grid>
+</Window>

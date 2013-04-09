@@ -1,0 +1,8 @@
+﻿<Window x:Class="FancyMaths.Trzecia.Trzecia_Odejmowanie"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Trzecia_Odejmowanie" Height="300" Width="300">
+    <Grid>
+        
+    </Grid>
+</Window>

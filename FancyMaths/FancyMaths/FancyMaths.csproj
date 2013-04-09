@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9BB4BB1B-1D0D-4B18-9AB3-C1F48B2FD672}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FancyMaths</RootNamespace>
+    <AssemblyName>FancyMaths</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Druga\Druga_Dodawanie.xaml.cs">
+      <DependentUpon>Druga_Dodawanie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Druga\Druga_Dod_i_Odej.xaml.xaml.cs">
+      <DependentUpon>Druga_Dod_i_Odej.xaml.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Druga\Druga_Odejmowanie.xaml.cs">
+      <DependentUpon>Druga_Odejmowanie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Druga\Druga_Zaleznosci.xaml.cs">
+      <DependentUpon>Druga_Zaleznosci.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trzecia\Trzecia_Dodawanie.xaml.cs">
+      <DependentUpon>Trzecia_Dodawanie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trzecia\Trzecia_Dod_i_Odej.xaml.cs">
+      <DependentUpon>Trzecia_Dod_i_Odej.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trzecia\Trzecia_Dzielenie.xaml.cs">
+      <DependentUpon>Trzecia_Dzielenie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trzecia\Trzecia_Liczby.xaml.cs">
+      <DependentUpon>Trzecia_Liczby.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trzecia\Trzecia_Mnozenie.xaml.cs">
+      <DependentUpon>Trzecia_Mnozenie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trzecia\Trzecia_Mno_i_Dziel.xaml.cs">
+      <DependentUpon>Trzecia_Mno_i_Dziel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trzecia\Trzecia_Odejmowanie.xaml.cs">
+      <DependentUpon>Trzecia_Odejmowanie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trzecia\Trzecia_Tresc.xaml.cs">
+      <DependentUpon>Trzecia_Tresc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Zadania_z_Trescia.xaml.cs">
+      <DependentUpon>Zadania_z_Trescia.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Druga\Druga_Dodawanie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Druga\Druga_Dod_i_Odej.xaml.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Druga\Druga_Odejmowanie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Druga\Druga_Zaleznosci.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Klasa_Druga.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Klasa_Pierwsza.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Klasa_Trzecia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Klasa_Druga.xaml.cs">
+      <DependentUpon>Klasa_Druga.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Klasa_Pierwsza.xaml.cs">
+      <DependentUpon>Klasa_Pierwsza.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Klasa_Trzecia.xaml.cs">
+      <DependentUpon>Klasa_Trzecia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Pierwsza\Pierwsza_Dodawanie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pierwsza\Pierwsza_Dod_i_Odej.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pierwsza\Pierwsza_Odejmowanie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pierwsza\Pierwsza_Zaleznosci.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trzecia\Trzecia_Dodawanie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trzecia\Trzecia_Dod_i_Odej.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trzecia\Trzecia_Dzielenie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trzecia\Trzecia_Liczby.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trzecia\Trzecia_Mnozenie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trzecia\Trzecia_Mno_i_Dziel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trzecia\Trzecia_Odejmowanie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trzecia\Trzecia_Tresc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Zadania_z_Trescia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pierwsza\Pierwsza_Dodawanie.xaml.cs">
+      <DependentUpon>Pierwsza_Dodawanie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pierwsza\Pierwsza_Dod_i_Odej.xaml.cs">
+      <DependentUpon>Pierwsza_Dod_i_Odej.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pierwsza\Pierwsza_Odejmowanie.xaml.cs">
+      <DependentUpon>Pierwsza_Odejmowanie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pierwsza\Pierwsza_Zaleznosci.xaml.cs">
+      <DependentUpon>Pierwsza_Zaleznosci.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Obrazki\tlo menu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Obrazki\Tło zadania.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Obrazki\testowy image.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
