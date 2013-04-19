@@ -1,8 +1,26 @@
 ﻿<Window x:Class="FancyMaths.Pierwsza.Pierwsza_Odejmowanie"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Pierwsza_Odejmowanie" Height="300" Width="300">
-    <Grid>
-        
+        Title="Pierwsza_Odejmowanie" WindowState="Maximized" WindowStyle="None" >
+    <Grid x:Name="Grid1" Height="Auto" Width="Auto">
+        <Grid.Background>
+            <ImageBrush ImageSource="/FancyMaths;component/Obrazki/Tło zadania.jpg"/>
+        </Grid.Background>
+        <Button x:Name="Exit" Content="MENU" Width="Auto" Height="Auto" FontSize="36px" Click="Exit_Click" />
+        <Button x:Name="Zero" Height="Auto" Width="Auto" Click="Zero_Click" Opacity="0" />
+        <Button x:Name="Jeden" Height="Auto" Width="Auto" Click="Jeden_Click" Opacity="0" />
+        <Button x:Name="Dwa" Height="Auto" Width="Auto" Click="Dwa_Click" Opacity="0" />
+        <Button x:Name="Trzy" Height="Auto" Width="Auto" Click="Trzy_Click" Opacity="0" />
+        <Button x:Name="Cztery" Height="Auto" Width="Auto" Click="Cztery_Click" Opacity="0" />
+        <Button x:Name="Piec" Height="Auto" Width="Auto" Click="Piec_Click" Opacity="0" />
+        <Button x:Name="Szesc" Height="Auto" Width="Auto" Click="Szesc_Click" Opacity="0" />
+        <Button x:Name="Siedem" Height="Auto" Width="Auto" Click="Siedem_Click" Opacity="0" />
+        <Button x:Name="Osiem" Height="Auto" Width="Auto" Click="Osiem_Click" Opacity="0" />
+        <Button x:Name="Dziewiec" Height="Auto" Width="Auto" Click="Dziewiec_Click" Opacity="0" />
+        <Image x:Name="Sprawdz_image" Height="Auto" Width="Auto" Source="/FancyMaths;component/Obrazki/sprawdzam.gif"></Image>
+        <Button x:Name="Sprawdz" Content="sprawdzam" Height="Auto" Width="Auto"  Opacity="0" Click="Sprawdz_Click" >
+        </Button>
+        <Grid x:Name="Grid2">
+        </Grid>
     </Grid>
 </Window>

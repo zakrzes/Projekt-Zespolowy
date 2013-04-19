@@ -51,3 +51,162 @@ c:\users\zak\documents\visual studio 2012\Projects\FancyMaths\FancyMaths\obj\Deb
 c:\users\zak\documents\visual studio 2012\Projects\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Odejmowanie.g.cs
 C:\Users\Zak\documents\visual studio 2012\Projects\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Tresc.baml
 C:\Users\Zak\documents\visual studio 2012\Projects\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Tresc.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\bin\Debug\FancyMaths.exe.config
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\FancyMaths.exe
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\FancyMaths.pdb
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\bin\Debug\FancyMaths.exe
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\bin\Debug\FancyMaths.pdb
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\FancyMaths.csprojResolveAssemblyReference.cache
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dodawanie.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dod_i_Odej.xaml.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Odejmowanie.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Zaleznosci.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Klasa_Druga.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Klasa_Pierwsza.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Klasa_Trzecia.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\MainWindow.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dodawanie.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dod_i_Odej.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Odejmowanie.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Zaleznosci.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dodawanie.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dod_i_Odej.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dzielenie.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Liczby.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mnozenie.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mno_i_Dziel.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Odejmowanie.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Tresc.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Zadania_z_Trescia.baml
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dodawanie.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dod_i_Odej.xaml.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Odejmowanie.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Zaleznosci.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Klasa_Druga.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Klasa_Pierwsza.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Klasa_Trzecia.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\MainWindow.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dodawanie.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dod_i_Odej.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Odejmowanie.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Zaleznosci.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dodawanie.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dod_i_Odej.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dzielenie.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Liczby.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mnozenie.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mno_i_Dziel.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Odejmowanie.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Tresc.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\Zadania_z_Trescia.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\App.g.cs
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\FancyMaths_MarkupCompile.cache
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\FancyMaths.g.resources
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\FancyMaths.Properties.Resources.resources
+D:\projekt zespolowy\projekt\Projekt-Zespolowy-master\FancyMaths\FancyMaths\obj\Debug\FancyMaths.csproj.GenerateResource.Cache
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\bin\Debug\FancyMaths.exe.config
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\FancyMaths.exe
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\FancyMaths.pdb
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\bin\Debug\FancyMaths.exe
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\bin\Debug\FancyMaths.pdb
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\FancyMaths.csprojResolveAssemblyReference.cache
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dodawanie.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dod_i_Odej.xaml.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Odejmowanie.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Zaleznosci.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Klasa_Druga.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Klasa_Pierwsza.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Klasa_Trzecia.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\MainWindow.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dodawanie.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dod_i_Odej.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Odejmowanie.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Zaleznosci.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dodawanie.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dod_i_Odej.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dzielenie.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Liczby.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mnozenie.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mno_i_Dziel.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Odejmowanie.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Tresc.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Zadania_z_Trescia.baml
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dodawanie.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dod_i_Odej.xaml.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Odejmowanie.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Zaleznosci.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Klasa_Druga.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Klasa_Pierwsza.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Klasa_Trzecia.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\MainWindow.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dodawanie.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dod_i_Odej.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Odejmowanie.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Zaleznosci.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dodawanie.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dod_i_Odej.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dzielenie.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Liczby.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mnozenie.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mno_i_Dziel.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Odejmowanie.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Tresc.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\Zadania_z_Trescia.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\App.g.cs
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\FancyMaths_MarkupCompile.cache
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\FancyMaths.g.resources
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\FancyMaths.Properties.Resources.resources
+D:\Projekt Zespołowy\FancyMaths.v2\FancyMaths\FancyMaths\obj\Debug\FancyMaths.csproj.GenerateResource.Cache
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\bin\Debug\FancyMaths.exe.config
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\FancyMaths.exe
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\FancyMaths.pdb
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\bin\Debug\FancyMaths.exe
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\bin\Debug\FancyMaths.pdb
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\FancyMaths.csprojResolveAssemblyReference.cache
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dodawanie.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dod_i_Odej.xaml.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Odejmowanie.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Zaleznosci.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Klasa_Druga.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Klasa_Pierwsza.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Klasa_Trzecia.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\MainWindow.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dodawanie.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dod_i_Odej.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Odejmowanie.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Zaleznosci.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dodawanie.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dod_i_Odej.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dzielenie.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Liczby.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mnozenie.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mno_i_Dziel.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Odejmowanie.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Tresc.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Zadania_z_Trescia.baml
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dodawanie.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Dod_i_Odej.xaml.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Odejmowanie.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Druga\Druga_Zaleznosci.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Klasa_Druga.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Klasa_Pierwsza.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Klasa_Trzecia.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\MainWindow.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dodawanie.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Dod_i_Odej.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Odejmowanie.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Pierwsza\Pierwsza_Zaleznosci.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dodawanie.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dod_i_Odej.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Dzielenie.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Liczby.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mnozenie.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Mno_i_Dziel.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Odejmowanie.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Trzecia\Trzecia_Tresc.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\Zadania_z_Trescia.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\App.g.cs
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\FancyMaths_MarkupCompile.cache
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\FancyMaths.g.resources
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\FancyMaths.Properties.Resources.resources
+C:\Users\Zak\Documents\GitHub\Projekt-Zespolowy\FancyMaths\FancyMaths\obj\Debug\FancyMaths.csproj.GenerateResource.Cache

@@ -17,5 +17,10 @@
         <Button x:Name="Siedem" Height="Auto" Width="Auto" Click="Siedem_Click" Opacity="0" />
         <Button x:Name="Osiem" Height="Auto" Width="Auto" Click="Osiem_Click" Opacity="0" />
         <Button x:Name="Dziewiec" Height="Auto" Width="Auto" Click="Dziewiec_Click" Opacity="0" />
+        <Image x:Name="Sprawdz_image" Height="Auto" Width="Auto" Source="/FancyMaths;component/Obrazki/sprawdzam.gif"></Image>
+        <Button x:Name="Sprawdz" Content="sprawdzam" Height="Auto" Width="Auto"  Opacity="0" Click="Sprawdz_Click" >
+        </Button>
+        <Grid x:Name="Grid2">
+        </Grid>
     </Grid>
 </Window>
